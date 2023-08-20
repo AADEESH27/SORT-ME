@@ -15,8 +15,8 @@ SortMe is a React App project by Aadeesh Bali to visually compare the sorting pr
 # Build Guide
 
 ```bash
-https://github.com/Sumit-Pandey-07/PathFinding-Visualizer.git
-cd Pathfinding-Visualizer
+git clone https://github.com/AADEESH27/SORT-ME
+cd SORT-ME
 npm install
 npm start
 ```
